@@ -1,4 +1,4 @@
-const mul = (num1, num2) => {
-    return num1 * num2;
+const mul = (a, b) => {
+    return a * b;
 }
 module.exports = mul;
